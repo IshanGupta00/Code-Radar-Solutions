@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
-    float a;
+    int a;
     printf("" , a);
-    scanf("%f", a);
+    scanf("%d", a);
     return 0;
 }
