@@ -9,7 +9,8 @@ int maiin(){
         if(a<0 && b>o){
             printf("True");
         }else{
-            printf("False")
+            printf("False");
         }
     }
+    return 0;
 }
