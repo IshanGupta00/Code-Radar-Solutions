@@ -18,14 +18,14 @@ int main() {
         if (b != 0) {
             printf("%d", a / b);
         } else {
-            printf("Error: Division by zero");
+            printf("Error");
         }
     }
     else if (c == '*') {
         printf("%d", a * b);
     }
     else {
-        printf("Error: Invalid operator");
+        printf("Error");
     }
 
     return 0;
